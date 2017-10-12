@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Product Types Options
-Plugin URI: https://greencarsen.com/
-Description: Product Types Options
+Plugin URI: https://campustrading.com.au/
+Description: Product types options for woocommerce multisite.
 Version: v1.0
 Author: Ryan Bobotioc.
-Author URI: https://greencarsen.com/
+Author URI: https://campustrading.com.au/
 License: GPL2
 */
 
